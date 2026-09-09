@@ -9,7 +9,7 @@ When you have completed the tutorial portion, be sure to also complete the [Exte
 
 Whenever you are creating a new Python project, it is best to stay organized by placing all the files related to the project in the same folder. Create a folder named `root`.
 
-Inside the folder, create a new `main.py` file.
+Inside the folder, create a new `root.py` file.
 
 ## 2. A Brief Overview of Turtle and Importing the Library
 
