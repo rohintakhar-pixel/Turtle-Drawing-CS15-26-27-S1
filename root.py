@@ -1,22 +1,5 @@
 from turtle import *
 
-# line
-color("orange")
-forward(100)
-
-# square
-color("red")
-left(90)
-forward(100)
-color("blue")
-left(90)
-forward(100)
-color("green")
-left(90)
-forward(100)
-
-reset()
-
 # hello
 letter_size = 30
 gap = 10
