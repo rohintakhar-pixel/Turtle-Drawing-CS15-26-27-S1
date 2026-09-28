@@ -1,12 +1,6 @@
 from turtle import *
 
-house_size = 200
-roof_length = house_size * 0.7071
-door_width = 40
-door_height = 70
-window_size = 40
-chimney_width = 30
-chimney_height = 50
+# My drawing is a house
 
 # walls
 color("brown")
